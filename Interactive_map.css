@@ -1,0 +1,97 @@
+/* <style type="text/css">  */
+
+body {
+    text-align: left;
+    background-color: burlywood;
+    padding: 100px;
+    padding-top: 10px;
+}
+ul li{
+   float: right;
+   list-style-type: none;
+   margin-top: 25px;
+}
+
+ul li{
+   display: inline-block;
+}
+ul li a{
+   text-decoration: none;
+   color: #fff;
+   padding: 5px 20px;
+   border: 2px solid #fff;
+   transition: 0.6s ease;
+
+}
+
+ul li a:hover{
+   background-color: #fff;
+   color: #000;
+}
+
+ul li.active a{
+   background-color: #fff;
+   color: #000;
+   }
+h1 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    background-color:rosybrown;
+    color: white;
+    
+}
+
+
+h2 {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    color: white;
+    background-color: brown;
+}
+.svgClass {
+    background-color:gray;
+    float:left;
+    width:60%;
+    color:#fff;
+    padding:10px;
+    box-sizing:border-box;
+}
+polygon{
+    fill:white; transition: 1s fill;
+}
+polygon:hover {
+    fill: burlywood;
+     
+}
+.lideta { stroke:yellow;stroke-width: 2px;stroke-dasharray: 3; fill:gainsboro;
+fill-opacity: 50%;}
+.kirkos{stroke:greenyellow;stroke-width: 2px;stroke-dasharray: 3; fill:gainsboro;
+fill-opacity: 10%;}
+.nifassilk{stroke:goldenrod;stroke-width: 2px;stroke-dasharray: 3; fill:
+gainsboro; fill-opacity: 50%;} 
+.akakikaliti {stroke:olive;stroke-width: 2px;stroke-dasharray: 3; fill:gainsboro;
+fill-opacity: 10%;}
+.yeka{stroke:lawngreen;stroke-width: 2px;stroke-dasharray: 3;fill:gainsboro;
+fill-opacity: 10%;}
+.bole{stroke:green;stroke-width: 2px;stroke-dasharray: 3; fill:gainsboro; fillopacity:
+10%;}
+
+.kolfekeraniyo{stroke:khaki;stroke-width:2px;stroke-dasharray:3;
+fill:gainsboro;fill-opacity:50%;}
+
+.addisketema{stroke:palegoldenrod;stroke-width:2px;stroke-dasharray:3;
+
+fill:gainsboro;fill-opacity:50%;}
+
+.arada{stroke:peru;stroke-width:2px;stroke-dasharray:3;
+fill:gainsboro;fillopacity:50%;}
+
+.gulele{stroke:orange;stroke-width:2px;stroke-dasharray:3;fill:gainsboro;fill-opacity:50%;}
+
+.removed{display:none;}
+button{position:relative; color:White; font-size:20px; background:gray; border:none;
+   outline:none;left:0%;  width:150px; text-align:left;}
+button.hover{ fill:Whitesmoke;}
+#sidebar{text-align:left;float:right;width:30%;background:none;color:#fff; padding:0px;box-sizing:border-box;}
+
+
+
+
